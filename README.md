@@ -1,6 +1,6 @@
 # Hi, I'm Alexey 👋
 
-As a novice data analyst, I have always been interested by the potential of data to reveal insights and drive informed decision-making. 
+As a trainee data analyst, I have always been interested by the potential of data to reveal insights and drive informed decision-making. 
 
 Through my studies, I always seek out opportunities to deepen my understanding of data analytics and hone my technical abilities. I have worked on educational projects in a variety of industries and have an experience with a range of data analysis tools and programming languages.
 
