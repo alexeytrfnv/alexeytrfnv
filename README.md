@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
-<h3 align="center">A Data Analyst from Moscow</h3>
+<h3 align="center">A Trainee Data Analyst from Moscow</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexeytrfnv/Portfolio](https://github.com/alexeytrfnv/Portfolio)
 
