@@ -15,7 +15,7 @@ As a Computer Science student with hands-on experience in Machine Learning model
    <a href="https://t.me/alexey_trfnv">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href="https://instagram.com/alexeytrfnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexeytrfnv" height="30" width="40" /></a>
+   <a href="https://instagram.com/alexeytrfnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="alexeytrfnv" height="30" width="40" /></a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:alexeytrfnv7@gmail.com'>alexeytrfnv7@gmail.com</a>
 </p>
