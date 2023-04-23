@@ -1,16 +1,39 @@
-<h1 align="center">Hi 👋, I'm Alexey</h1>
-<h3 align="center">A Trainee Data Analyst from Moscow</h3>
+# Hi, I'm Alexey 👋
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexeytrfnv/Portfolio](https://github.com/alexeytrfnv/Portfolio)
+As a Computer Science student with hands-on experience in Machine Learning models, I have a strong ability to understand the business, identify problems, and describe solutions through storytelling. My skills in Python, Machine Learning, Deep Learning, and Statistics allow me to leverage data-driven solutions to tackle complex challenges and improve processes.
 
-- 📫 How to reach me **alexeytrfnv7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/alexeytrfnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexeytrfnv" height="30" width="40" /></a>
+<p align='center'>
+   <a href="https://github-readme-stats-dmdz.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats-dmdz.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/ankhanhi/github-readme-stats"><img
+           height=150
+           src="https://github-readme-stats-dmdz.vercel.app/api/top-langs/?username=ankhanhi&layout=compact"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align='center'>
+   <a href="https://t.me/alexey_trfnv">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:alexeytrfnv7@gmail.com'>alexeytrfnv7@gmail.com</a>
+</p>
 
 
+## 🔑 Key points
+*   Solid understanding of machine learning techniques including: Support Vector Machine/Regression, Hierarchical clustering, Distant based Clustering, and Decision trees
+*   Active participation in machine learning hackathons to stay up-to-date on the latest industry developments
+*   Passion for sharing knowledge through writing blog [posts](https://habr.com/ru/users/Kyvakh/) about data science
+*   Сurrently studying in my 3rd year at [MIET](https://www.miet.ru/) 
+
+## 🛠 Technical Stack
+*   Python/SQL
+*   PostgreSQL, Tableau
+*   JupiterHub, Google Collab, Visual Studio Code, Pycharm
+*   GitHub
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/alexeytrfnv/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=alexeytrfnv&color=DE002D">
+   </a>
+</div>
