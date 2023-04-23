@@ -23,13 +23,6 @@ Driven by a passion for learning and a desire to make a meaningful impact, I am 
    📫 How to reach me: <a href='mailto:alexeytrfnv7@gmail.com'>alexeytrfnv7@gmail.com</a>
 </p>
 
-
-## 🔑 Key points
-*   Solid understanding of machine learning techniques including: Support Vector Machine/Regression, Hierarchical clustering, Distant based Clustering, and Decision trees
-*   Active participation in machine learning hackathons to stay up-to-date on the latest industry developments
-*   Passion for sharing knowledge through writing blog [posts](https://habr.com/ru/users/Kyvakh/) about data science
-*   Сurrently studying in my 3rd year at [MIET](https://www.miet.ru/) 
-
 ## 🛠 Technical Stack
 *   Python/SQL
 *   PostgreSQL, Tableau
