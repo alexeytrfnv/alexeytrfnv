@@ -29,11 +29,5 @@ As a Computer Science student with hands-on experience in Machine Learning model
 ## 🛠 Technical Stack
 *   Python/SQL
 *   PostgreSQL, Tableau
-*   JupiterHub, Google Collab, Visual Studio Code, Pycharm
+*   Visual Studio Code, JupiterHub, Google Collab, Pycharm
 *   GitHub
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/alexeytrfnv/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=alexeytrfnv&color=DE002D">
-   </a>
-</div>
