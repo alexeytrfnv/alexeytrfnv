@@ -26,5 +26,5 @@ Driven by a passion for learning and a desire to make a meaningful impact, I am 
 ## 🛠 Technical Stack
 *   Python, SQL, Excel
 *   PostgreSQL, Tableau
-*   Visual Studio Code, JupiterHub, Google Collab, Pycharm
+*   Visual Studio Code, JupiterHub, Google Colab, Pycharm
 *   GitHub
